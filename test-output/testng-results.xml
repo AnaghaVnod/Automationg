@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-13T06:06:46Z" name="Suite" finished-at="2023-01-13T06:06:46Z" duration-ms="26">
+    <groups>
+    </groups>
+    <test started-at="2023-01-13T06:06:46Z" name="Test" finished-at="2023-01-13T06:06:46Z" duration-ms="26">
+      <class name="com.norka2022.test.NewTest">
+        <test-method is-config="true" signature="bTest()[pri:0, instance:com.norka2022.test.NewTest@183ec003]" started-at="2023-01-13T11:36:46Z" name="bTest" finished-at="2023-01-13T11:36:46Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest -->
+        <test-method signature="SecTest()[pri:0, instance:com.norka2022.test.NewTest@183ec003]" started-at="2023-01-13T11:36:46Z" name="SecTest" finished-at="2023-01-13T11:36:46Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecTest -->
+        <test-method signature="F()[pri:0, instance:com.norka2022.test.NewTest@183ec003]" started-at="2023-01-13T11:36:46Z" name="F" finished-at="2023-01-13T11:36:46Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- F -->
+        <test-method is-config="true" signature="aTest()[pri:0, instance:com.norka2022.test.NewTest@183ec003]" started-at="2023-01-13T11:36:46Z" name="aTest" finished-at="2023-01-13T11:36:46Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest -->
+      </class> <!-- com.norka2022.test.NewTest -->
+      <class name="com.norka2022.test.Home">
+        <test-method signature="SecTest()[pri:0, instance:com.norka2022.test.Home@2b30a42c]" started-at="2023-01-13T11:36:46Z" name="SecTest" finished-at="2023-01-13T11:36:46Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecTest -->
+        <test-method signature="F()[pri:0, instance:com.norka2022.test.Home@2b30a42c]" started-at="2023-01-13T11:36:46Z" name="F" finished-at="2023-01-13T11:36:46Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- F -->
+      </class> <!-- com.norka2022.test.Home -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
